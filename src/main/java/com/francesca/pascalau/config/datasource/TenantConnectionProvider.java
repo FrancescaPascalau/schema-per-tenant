@@ -1,4 +1,4 @@
-package com.francesca.pascalau.config;
+package com.francesca.pascalau.config.datasource;
 
 import org.hibernate.engine.jdbc.connections.spi.MultiTenantConnectionProvider;
 import org.slf4j.Logger;

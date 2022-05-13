@@ -1,5 +1,6 @@
-package com.francesca.pascalau.config;
+package com.francesca.pascalau.config.datasource;
 
+import com.francesca.pascalau.config.TenantContext;
 import org.hibernate.context.spi.CurrentTenantIdentifierResolver;
 import org.springframework.stereotype.Component;
 

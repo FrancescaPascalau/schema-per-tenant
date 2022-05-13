@@ -1,4 +1,4 @@
-package com.francesca.pascalau.config;
+package com.francesca.pascalau.config.datasource;
 
 import org.hibernate.MultiTenancyStrategy;
 import org.hibernate.cfg.Environment;
